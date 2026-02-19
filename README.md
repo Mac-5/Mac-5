@@ -233,8 +233,8 @@ impl Developer {
 
 | Platform | Link |
 |:---:|:---:|
-| 📧 **Email** | [your@email.com](mailto:your@email.com) |
-| 🐦 **Twitter / X** | [@YourHandle](https://twitter.com) |
+| 📧 **Email** | [your@email.com](mailto:emmamarkpius@gmail.com) |
+| 🐦 **Twitter / X** | [@YourHandle](https://x.com/Mac_dev5) |
 | 💼 **LinkedIn** | [Mac](https://linkedin.com) |
 | 🔒 **Code4rena** | [Profile](https://code4rena.com) |
 | 🛡️ **Sherlock** | [Profile](https://sherlock.xyz) |
