@@ -132,32 +132,62 @@ impl Developer {
 ## 🏆 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/Mac-5/Opencover">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac-5&repo=Opencover&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed" />
-</a>
-<a href="https://github.com/Mac-5/AuctionContract">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac-5&repo=AuctionContract&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Mac-5/Merkle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac-5&repo=Merkle&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed" />
-</a>
-<a href="https://github.com/Mac-5/floe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac-5&repo=floe&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Mac-5/Audit_aave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac-5&repo=Audit_aave&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed" />
-</a>
-<a href="https://github.com/Mac-5/cohort-8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac-5&repo=cohort-8&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed" />
-</a>
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Mac-5/Opencover">
+        <b>🛡️ Opencover</b><br/>
+        <sub>Decentralized insurance protocol built in Solidity. On-chain coverage for DeFi risk.</sub><br/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity" />
+        <img src="https://img.shields.io/badge/DeFi-7c3aed?style=flat-square" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Mac-5/AuctionContract">
+        <b>🔨 AuctionContract</b><br/>
+        <sub>Smart contract auction system with TypeScript testing. Bidding logic fully on-chain.</sub><br/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Mac-5/Merkle">
+        <b>🌲 Merkle</b><br/>
+        <sub>Merkle tree implementation for efficient on-chain proof verification.</sub><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Cryptography-0d1117?style=flat-square" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Mac-5/floe">
+        <b>🌊 Floe</b><br/>
+        <sub>Solidity protocol project with custom contract architecture and test coverage.</sub><br/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity" />
+        <img src="https://img.shields.io/badge/Foundry-000000?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Mac-5/Audit_aave">
+        <b>🔬 Audit — Aave V3</b><br/>
+        <sub>Security audit & vulnerability research on Aave V3 core lending contracts.</sub><br/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity" />
+        <img src="https://img.shields.io/badge/Audit-ff6b35?style=flat-square" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Mac-5/cohort-8">
+        <b>🦀 Cohort-8</b><br/>
+        <sub>Rust-based blockchain development work from an intensive cohort program.</sub><br/>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Blockchain-302b63?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -166,16 +196,16 @@ impl Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mac-5&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed&count_private=true&hide_border=false" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mac-5&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed&hide_border=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mac-5&show_icons=true&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed&count_private=true&hide_border=false&cache_seconds=86400" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mac-5&layout=compact&theme=tokyonight&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=7c3aed&hide_border=false&cache_seconds=86400" height="180" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mac-5&theme=tokyonight&border=7c3aed&background=0d1117&ring=a78bfa&fire=ff6b35&currStreakLabel=a78bfa" height="180" />
+<img src="https://streak-stats.demolab.com?user=Mac-5&theme=tokyonight-duo&border=7c3aed&background=0d1117&ring=a78bfa&fire=ff6b35&currStreakLabel=a78bfa&hide_border=false" height="180" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mac-5&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7c3aed&area_color=7c3aed" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mac-5&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=7c3aed" width="95%" />
 
 </div>
 
